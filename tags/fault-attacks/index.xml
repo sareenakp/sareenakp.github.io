@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fault attacks on Patanjali SLPSK</title>
-    <link>https://patanjali.github.io/tags/fault-attacks/</link>
-    <description>Recent content in Fault attacks on Patanjali SLPSK</description>
+    <title>Fault attacks on Sareena K P</title>
+    <link>https://sareenakp.github.io/tags/fault-attacks/</link>
+    <description>Recent content in Fault attacks on Sareena K P</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 06:12:56 -0700</lastBuildDate>
     
-	<atom:link href="https://patanjali.github.io/tags/fault-attacks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sareenakp.github.io/tags/fault-attacks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SecureSizer: An gate-sizing framework for mitigating fault attacks in hardware</title>
-      <link>https://patanjali.github.io/project/proj3/</link>
+      <link>https://sareenakp.github.io/project/proj3/</link>
       <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
       
-      <guid>https://patanjali.github.io/project/proj3/</guid>
+      <guid>https://sareenakp.github.io/project/proj3/</guid>
       <description>Fault attacks are one of the growing physical attacks exploits that target edge devices. The attacker introduces faults at specific locations in the device during encryption thereby corrupting the result of the operation. These faults are introduced by either manipulating the system clock, the power supply or by using a laser. Traditional countermeasures rely on redundant logic, parity checking which introduce area and power overheads. In this work, we explore the idea of gate-sizing as a countermeasure for fault attacks.</description>
     </item>
     

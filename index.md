@@ -25,7 +25,7 @@ I have also worked on developing heuristics for various post synthesis stages li
 <ul> 
   <li> <table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><h3>"MLTimer: Leakage Power Minimisation in Digital Circuits using Machine Learning and Adaptive Lazy Timing Analysis</h3><font color="grey"><h5><i><b> To be published in JOLPE June 2018 </b></i></h5></font>
-   <font color="black"><h5> Patanjali SLPSK, Milan Patnaik, Seetal Potluri, Kamakoti Veezhinathan</h5></font></tr>
+   <font color="black"><h5> Sareena K P, Milan Patnaik, Seetal Potluri, Kamakoti Veezhinathan</h5></font></tr>
     <tr>
       <td width="30%">
       <img src='Learntimer.jpg'>         
@@ -37,7 +37,7 @@ sizing contests introduced industry standard benchmarks and library which motiva
   
   <li> <table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><a href="https://ieeexplore.ieee.org/document/8290931/"><h3>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks</h3></a><font color="grey"><h5><i><b>  Embedded Systems Letters, 2018 </b></i></h5></font>
-   <font color="black"><h5> Gnanambikai Krishnakumar, Patanjali SLPSK, Prasanna Karthik Vairam, Chester Rebeiro</h5></font></tr>
+   <font color="black"><h5> Gnanambikai Krishnakumar, Sareena K P, Prasanna Karthik Vairam, Chester Rebeiro</h5></font></tr>
     <tr>
       <td width="30%">
       <img src='gandalfarch.jpg'>         
@@ -48,7 +48,7 @@ sizing contests introduced industry standard benchmarks and library which motiva
 
 <li> <table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><a href="https://arxiv.org/abs/1702.07223"><h3>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks</h3></a><font color="grey"><h5><i><b> (This is the work we submitted to CSAW2016) arXiv, 2017 </b></i></h5></font>
-   <font color="black"><h5> Gnanambikai Krishnakumar, Patanjali SLPSK, Prasanna Karthik Vairam, Chester Rebeiro</h5></font></tr>
+   <font color="black"><h5> Gnanambikai Krishnakumar, Sareena K P, Prasanna Karthik Vairam, Chester Rebeiro</h5></font></tr>
     <tr>
       <td width="30%">
       <img src='gandalf.png'>         
@@ -59,7 +59,7 @@ sizing contests introduced industry standard benchmarks and library which motiva
    <li>
    <table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><h3>HALTimer: a fast Vt replacement Heuristic for leakage power minimization using Adaptive Lazy Timer</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2015 (Work in progress) </b></i></h5></font>
-   <font color="black"><h5>Patanjali SLPSK, Seetal Potluri and V. Kamakoti</h5></font></tr>
+   <font color="black"><h5>Sareena K P, Seetal Potluri and V. Kamakoti</h5></font></tr>
     <tr>
       <td width="30%">
       <img src='dac2015.png'>         
@@ -71,7 +71,7 @@ deadline. </h6></div></td></tr>
  
    <li><table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><h3>Efficient Vt-Assignment to Minimize Circuit Leakage using Adaptive Lazy Timing Analysis</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2014 (Work in progress) </b></i></h5></font>
-   <font color="black"><h5> Patanjali SLPSK, Seetal Potluri and V. Kamakoti</h5></font></tr>
+   <font color="black"><h5> Sareena K P, Seetal Potluri and V. Kamakoti</h5></font></tr>
     <tr>
       <td width="30%">
       <img src='dac2014.png'>         
@@ -84,7 +84,7 @@ In iterative Vt-assignment, we observe that there is a good correlation between 
    </table></li>
    <li><table>
    <tr text-align="justify"><a href="https://www.usenix.org/conference/hotpower12/workshop-program/presentation/gautham"><h3>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efﬁciency</h3></a><font color="grey"><h5><i><b> HotPower, 2012 </b></i></h5></font>
-   <font color="black"><h5> Ashok Gautham, Kunal Korgaonkar, Patanjali SLPSK, Shankar Balachandran, and Kamakoti Veezhinathan</h5></font>
+   <font color="black"><h5> Ashok Gautham, Kunal Korgaonkar, Sareena K P, Shankar Balachandran, and Kamakoti Veezhinathan</h5></font>
 
    </tr>
     <tr>

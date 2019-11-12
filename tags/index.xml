@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Patanjali SLPSK</title>
-    <link>https://patanjali.github.io/tags/</link>
-    <description>Recent content in Tags on Patanjali SLPSK</description>
+    <title>Tags on Sareena K P</title>
+    <link>https://sareenakp.github.io/tags/</link>
+    <description>Recent content in Tags on Sareena K P</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 06:41:32 -0700</lastBuildDate>
     
-	<atom:link href="https://patanjali.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sareenakp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Energy Efficient Computing</title>
-      <link>https://patanjali.github.io/tags/energy-efficient-computing/</link>
+      <link>https://sareenakp.github.io/tags/energy-efficient-computing/</link>
       <pubDate>Mon, 03 Jun 2019 06:41:32 -0700</pubDate>
       
-      <guid>https://patanjali.github.io/tags/energy-efficient-computing/</guid>
+      <guid>https://sareenakp.github.io/tags/energy-efficient-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML for EDA</title>
-      <link>https://patanjali.github.io/tags/ml-for-eda/</link>
+      <link>https://sareenakp.github.io/tags/ml-for-eda/</link>
       <pubDate>Mon, 03 Jun 2019 06:41:32 -0700</pubDate>
       
-      <guid>https://patanjali.github.io/tags/ml-for-eda/</guid>
+      <guid>https://sareenakp.github.io/tags/ml-for-eda/</guid>
       <description></description>
     </item>
     

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>patanjali on Patanjali SLPSK</title>
-    <link>https://patanjali.github.io/authors/patanjali/</link>
-    <description>Recent content in patanjali on Patanjali SLPSK</description>
+    <title>patanjali on Sareena K P</title>
+    <link>https://sareenakp.github.io/authors/patanjali/</link>
+    <description>Recent content in patanjali on Sareena K P</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://patanjali.github.io/authors/patanjali/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sareenakp.github.io/authors/patanjali/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://patanjali.github.io/author/patanjali/</link>
+      <link>https://sareenakp.github.io/author/patanjali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://patanjali.github.io/author/patanjali/</guid>
+      <guid>https://sareenakp.github.io/author/patanjali/</guid>
       <description>Hi, I am a Ph.D student at IIT Madras advised by Dr. V. Kamakoti. I am affiliated with RISE Lab in the Computer Science Department.
 I like to work on problems related to energy efficient computing, harware security and computer architecture. My passion to teach and I hope to join the academia eventually. My hobbies are reading books and photography. I am always looking for collaborations, so feel free to contact me.</description>
     </item>
