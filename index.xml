@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/</link>
+    <description>Recent content on Patanjali SLPSK</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2019 06:41:32 -0700</lastBuildDate>
+    
+	    <atom:link href="https://patanjali.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Karna: A Security Aware EDA Flow for Improved Side-Channel Attack Protection</title>
+      <link>https://patanjali.github.io/publication/poster/paper5/</link>
+      <pubDate>Mon, 03 Jun 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/poster/paper5/</guid>
+      <description>&lt;p&gt;Side-channel attacks pose a serious threat to the security of embedded devices. Most available countermeasures have significant overheads and very often do not meet an application’s requirement of low-power, high-performance, and small-area. In this work, we propose an algorithm called Karna that can be incorporated in the Electronic Design Automation (EDA) flow, in order to significantly improve the side-channel security of a device, without compromising on the other device characteristics of power, performance, and area. Karna achieves this by first identifying vulnerable gates in the design and then reconfiguring these gates to increase side-channel resistance. Unlike contemporary works, Karna does not require any specialized gate library but uses the gates available in the standard cell library. We integrate Karna into the Synopsys Design Compiler and demonstrate its efficacy at reducing side-channel leakage in implementations of AES, PRESENT and Simon block ciphers, synthesized for a 28-nm technology node. We show that our proposed approach is able to reduce the power side-channel of the designs while incurring no penalty in delay, power and gate-count. Our proposed approach incurs a 20% penalty in the area utilization while the total area of the design remains constant.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wired</title>
+      <link>https://patanjali.github.io/post/post1/</link>
+      <pubDate>Mon, 03 Jun 2019 06:29:30 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/post/post1/</guid>
+      <description>&lt;p&gt;Our work on Network security was featured in Wired. Do read &lt;a href=&#34;https://www.wired.com/story/netflix-interactive-bandersnatch-hackers-choices/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; to know more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>White Mirror: Leaking Sensitive Information from Interactive Netflix Movies using Encrypted Traffic Analysis</title>
+      <link>https://patanjali.github.io/publication/arxiv/paper4/</link>
+      <pubDate>Sun, 21 Apr 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/arxiv/paper4/</guid>
+      <description>&lt;p&gt;Privacy leaks from Netflix videos/movies is well researched. Current state-of-the-art works have been able to obtain coarse-grained information such as the genre and the title of videos by passive observation of encrypted traffic. However, leakage of fine-grained information from encrypted traffic has not been studied so far. Such information can be used to build behavioural profiles of viewers.
+On 28th December 2018, Netflix released the first mainstream interactive movie called &amp;lsquo;Black Mirror: Bandersnatch&amp;rsquo;. In this work, we use this movie as a case-study to show for the first time that fine-grained information (i.e., choices made by users) can be revealed from encrypted traffic. We use the state information exchanged between the viewer&amp;rsquo;s browser and Netflix as the side-channel. To evaluate our proposed technique, we built the first interactive video traffic dataset of 100 viewers; which we will be releasing. Preliminary results indicate that the choices made by a user can be revealed 96% of the time in the worst case.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MLTimer: Leakage Power Minimisation in Digital Circuits using Machine Learning and Adaptive Lazy Timing Analysis</title>
+      <link>https://patanjali.github.io/publication/journal/paper1/</link>
+      <pubDate>Sun, 03 Jun 2018 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/journal/paper1/</guid>
+      <description>&lt;p&gt;Power optimization techniques in a VLSI flow typically end up being the performance bottlenecks leading to a large turn around time for the following reasons:
+    * Scalability: The design typically spans millions and millions of gates with different operating conditions leading to a large search space.
+    *  Portability: The constraints vary across technology nodes hindering reusability of solutions.
+ML models are inherently trained to operate on large datasets and navigate a complex search space. The contributions of our work are as follows.
+    * We propose a novel learning (Support Vector Machine) based classifier, which provides a good initial design configuration that guarantees leakage optimal solution.
+    * We use a Lazy Timing Analysis procedure that postpones the timing validation step as much as possible.
+    * We show the efficiency of our technique on large scale benchmark datasets (25K - 1million gates). Our technique performs 23% better in terms of solution quality when compared with the state-of-the art technique and 50% better in terms of runtime.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks.</title>
+      <link>https://patanjali.github.io/publication/journal/paper2/</link>
+      <pubDate>Sat, 03 Feb 2018 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/journal/paper2/</guid>
+      <description>&lt;p&gt;Illegal memory accesses are a serious security vulnerability that have been exploited on numerous occasions. In this letter, we present Gandalf, a compiler assisted hardware extension for the OpenRISC processor that thwarts all forms of memory-based attacks. We associate lightweight capabilities to all program variables, which are checked at run time by the hardware. Gandalf is transparent to the user and does not require significant OS modifications. Moreover, it achieves locality and incurs minimal overheads in the hardware. We demonstrate these features with a customized Linux kernel executing SPEC2006 benchmarks. To the best of our knowledge, this is the first work to demonstrate a complete solution for hardware-based memory protection schemes for embedded platforms&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HALTimer: A Fast Vt Replacement Heuristic for. Leakage Power Minimization </title>
+      <link>https://patanjali.github.io/publication/poster/paper7/</link>
+      <pubDate>Wed, 03 Jun 2015 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/poster/paper7/</guid>
+      <description>&lt;p&gt;The discrete Vt sizing technique is employed at all stages of the physical synthesis flow, because it does not impact the placement yet provides significant room for power/timing optimization. The timing-constrained discrete Vt sizing problem (TC-DVSP) is NP-complete and earlier techniques reported for the same, employed iterative greedy or sensitivity-driven heuristics, that required incremental timing analysis after every iteration. The key observation reported in this paper is that there exists a good correlation between the slack distribution among gates in a given iteration and the order of gate replacements in subsequent iterations. This paper exploits the above observation to propose HALTimer, an iterative algorithm that uses adaptive lazy timing analysis to solve the TC-DVSP. For large ISPD and ITC circuits, HALTimer reduces the running time from several days to a few hours. This significant decrease in running time is very useful to the industry for achieving timing and power closures of large designs within a given deadline.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FastReplace: Efficient Vt Replacement Technique for Leakage Power Minimization</title>
+      <link>https://patanjali.github.io/publication/poster/paper6/</link>
+      <pubDate>Tue, 03 Jun 2014 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/poster/paper6/</guid>
+      <description>&lt;p&gt;We consider the timing-constrained discrete Vt-assignment problem for leakage minimization in digital circuits. The problem is known to be NP-complete. Greedy or Sensitivity-driven heuristics are known to be very effective for iterative Vt-assignment, with incremental timing analysis performed between the iterations. These heuristics, while offering good leakage power savings, carry a huge run-time penalty with increase in circuit size. In iterative Vt-assignment, we observe that there is a good correlation between the slack distribution in a given iteration, and the order of gate replacements in subsequent iterations. This paper proposes an algorithm, which exploits this high correlation to speed up the Vt-assignment process. The proposed algorithm uses gate replacement windows, with lazy timing evaluation, to reduce the total number of incremental STA runs during the optimization. At the end of each iteration, the successive window size is dynamically scaled up/down based on the timing updates at the end of the current window. The proposed algorithm, when applied to ISCAS/ITC circuits, significantly reduced the run-time without impacting the solution quality.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efficiency.</title>
+      <link>https://patanjali.github.io/publication/conference/paper3/</link>
+      <pubDate>Sun, 21 Oct 2012 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/conference/paper3/</guid>
+      <description>&lt;p&gt;Shared data synchronization is at the heart of the multi-core revolution since it is essential for writing concurrent programs. Ideally, a synchronization technique should be able to fully exploit the available cores, leading to improved performance. However, with the growing demand for energy-efficient systems, it also needs to work within the energy and power budget of the system. In this paper, we perform a detailed study of the performance as well as energy efficiency of popular shared-data synchronization techniques on a commodity multi-core processor. We show that Software Transactional Memory (STM) systems can perform better than locks for workloads where a significant portion of the running time is spent in the critical sections. We also show how power-conserving techniques available on modern processors like C-states and clock frequency scaling impact energy consumption and performance. Finally, we compare the performance of STMs and locks under similar power budgets.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Security on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/categories/ai-security/</link>
+    <description>Recent content in AI Security on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://patanjali.github.io/categories/ai-security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy aware Deep Learning </title>
+      <link>https://patanjali.github.io/project/proj2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/project/proj2/</guid>
+      <description>The advent of IoT has led to massive data generation due to the widespread deployment of sensors, networks, and processing devices. Deep Learning has emerged as a popular computing paradigm that is used to process these large scale data and gather useful information. Of late, companies like Amazon and Google have provided cloud-based Deep Learning solutions. These solutions are referred to as Deep Learning as a Service (DLaaS). Recent works have demonstrated that these DLaaS systems are quite vulnerable to adversarial attacks.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jun 2018 06:41:32 -0700</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MLTimer: Leakage Power Minimisation in Digital Circuits using Machine Learning and Adaptive Lazy Timing Analysis</title>
+      <link>https://patanjali.github.io/publication/journal/paper1/</link>
+      <pubDate>Sun, 03 Jun 2018 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/journal/paper1/</guid>
+      <description>Power optimization techniques in a VLSI flow typically end up being the performance bottlenecks leading to a large turn around time for the following reasons: * Scalability: The design typically spans millions and millions of gates with different operating conditions leading to a large search space. * Portability: The constraints vary across technology nodes hindering reusability of solutions. ML models are inherently trained to operate on large datasets and navigate a complex search space.</description>
+    </item>
+    
+    <item>
+      <title>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks.</title>
+      <link>https://patanjali.github.io/publication/journal/paper2/</link>
+      <pubDate>Sat, 03 Feb 2018 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/journal/paper2/</guid>
+      <description>Illegal memory accesses are a serious security vulnerability that have been exploited on numerous occasions. In this letter, we present Gandalf, a compiler assisted hardware extension for the OpenRISC processor that thwarts all forms of memory-based attacks. We associate lightweight capabilities to all program variables, which are checked at run time by the hardware. Gandalf is transparent to the user and does not require significant OS modifications. Moreover, it achieves locality and incurs minimal overheads in the hardware.</description>
+    </item>
+    
+  </channel>
+</rss>

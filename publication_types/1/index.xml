@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2012 06:41:32 -0700</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efficiency.</title>
+      <link>https://patanjali.github.io/publication/conference/paper3/</link>
+      <pubDate>Sun, 21 Oct 2012 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/conference/paper3/</guid>
+      <description>Shared data synchronization is at the heart of the multi-core revolution since it is essential for writing concurrent programs. Ideally, a synchronization technique should be able to fully exploit the available cores, leading to improved performance. However, with the growing demand for energy-efficient systems, it also needs to work within the energy and power budget of the system. In this paper, we perform a detailed study of the performance as well as energy efficiency of popular shared-data synchronization techniques on a commodity multi-core processor.</description>
+    </item>
+    
+  </channel>
+</rss>

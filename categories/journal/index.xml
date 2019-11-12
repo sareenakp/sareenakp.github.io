@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/categories/journal/</link>
+    <description>Recent content in Journal on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jun 2018 06:41:32 -0700</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/categories/journal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MLTimer: Leakage Power Minimisation in Digital Circuits using Machine Learning and Adaptive Lazy Timing Analysis</title>
+      <link>https://patanjali.github.io/publication/journal/paper1/</link>
+      <pubDate>Sun, 03 Jun 2018 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/journal/paper1/</guid>
+      <description>Power optimization techniques in a VLSI flow typically end up being the performance bottlenecks leading to a large turn around time for the following reasons: * Scalability: The design typically spans millions and millions of gates with different operating conditions leading to a large search space. * Portability: The constraints vary across technology nodes hindering reusability of solutions. ML models are inherently trained to operate on large datasets and navigate a complex search space.</description>
+    </item>
+    
+  </channel>
+</rss>
